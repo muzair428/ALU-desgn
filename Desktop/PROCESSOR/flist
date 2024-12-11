@@ -1,0 +1,11 @@
+/home/muhammad/Desktop/PROCESSOR/tb/tb.v
+/home/muhammad/Desktop/PROCESSOR/src/ALU.v
+/home/muhammad/Desktop/PROCESSOR/src/instruction_memory.v
+/home/muhammad/Desktop/PROCESSOR/src/main.v
+/home/muhammad/Desktop/PROCESSOR/src/data_memory.v
+/home/muhammad/Desktop/PROCESSOR/src/program_counter.v
+/home/muhammad/Desktop/PROCESSOR/src/register.v
+/home/muhammad/Desktop/PROCESSOR/src/write_back.v
+/home/muhammad/Desktop/PROCESSOR/src/alu_decoder.v
+/home/muhammad/Desktop/PROCESSOR/src/decoder.v
+/home/muhammad/Desktop/PROCESSOR/src/imm_gen.v
